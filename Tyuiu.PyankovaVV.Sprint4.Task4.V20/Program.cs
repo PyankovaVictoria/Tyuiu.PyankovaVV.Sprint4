@@ -16,11 +16,11 @@ namespace Tyuiu.PyankovaVV.Sprint4.Task4.V20
 
             Console.Title = "Спринт#4 |Выполнила: Пьянкова В.В. | АСОиУб-23-2";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт # 4                                                                *");
+            Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы. (ввод с клавиатуры)                            *");
-            Console.WriteLine("* Задание # 4                                                             *");
-            Console.WriteLine("* Вариант # 20                                                            *");
-            Console.WriteLine("* Выполнила: Захарова Юлиана Владимировна | АСОиУб-23-2                     *");
+            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Вариант #20                                                             *");
+            Console.WriteLine("* Выполнила: Пьянкова Виктория Вячеславовна | АСОиУб-23-2                 *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан двумерный целочисленный массив 5 на 5 элементов, заполненный        *");
